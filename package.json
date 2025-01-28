@@ -1,0 +1,20 @@
+{
+  "name": "distribuidora-faturamento",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.10",
+    "@types/xml2js": "^0.4.14",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
